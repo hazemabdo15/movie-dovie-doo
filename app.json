@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "movie-app",
+    "name": "movie-dovie-doo",
     "slug": "movie-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/image.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#98A1BC"
     },
     "ios": {
       "supportsTablet": true
