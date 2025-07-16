@@ -2,10 +2,6 @@
 
 A feature-rich React Native mobile application for discovering and exploring movies using The Movie Database (TMDB) API.
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
 ## ✨ Features
 
 ### Core Functionality
